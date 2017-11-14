@@ -1,0 +1,8 @@
+{
+	"name" : "Script test",
+	"linux" : true,
+	"windows32" : true,
+	"windows64" : true,
+	"mac" : true,
+	"recipe_script" : "https://raw.githubusercontent.com/jakemakesstuff/packageparrot/master/cookbooks/script_test.py"
+}
