@@ -4,5 +4,5 @@
 	"windows32" : true,
 	"windows64" : true,
 	"mac" : true,
-	"cookbook" : "https://raw.githubusercontent.com/jakemakesstuff/packageparrot/master/cookbooks/script_test.py"
+	"cookbook_url" : "https://raw.githubusercontent.com/jakemakesstuff/packageparrot/master/cookbooks/script_test.py"
 }

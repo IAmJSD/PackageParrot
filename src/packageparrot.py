@@ -45,7 +45,7 @@ def main(args):
                     if mac and not r["mac"]:
                         raise Exception("You appear to be on OS X and the application does not support it.")
                     print("Fetching/running the cookbook required.")
-                    x = requests.get(r["cookbook"])
+                    x = requests.get(r["cookbook_url"])
                     exec(x.text)
     # The script used to install packages.
 
